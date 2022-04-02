@@ -12,7 +12,7 @@ git clone https://github.com/janselroa/gallery-images
 before open file ```index.html```
 
 <h3>View in <a href="
-https://brilliant-sunburst-1ce867.netlify.app/">live</a></h3> 
+https://grand-haupia-b4b903.netlify.app/">live</a></h3> 
 
 
 <p>Echo por Jansel Roa &copy 2022</p>
